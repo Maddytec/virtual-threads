@@ -1,4 +1,4 @@
-# Project README
+# Project Example of Virtual Threads with Java 21
 
 ## Prerequisites
 
